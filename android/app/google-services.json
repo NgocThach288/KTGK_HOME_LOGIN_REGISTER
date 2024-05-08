@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375399938875",
+    "project_id": "ktgk-ab356",
+    "storage_bucket": "ktgk-ab356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375399938875:android:e9f7ff6b4c61fe1363d51e",
+        "android_client_info": {
+          "package_name": "com.loginhomeregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGsLdp9SFGOfvnvJv-ea3iYXNPiwsjyt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
